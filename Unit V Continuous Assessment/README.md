@@ -62,6 +62,6 @@ You've successfully run and modified your React Native App. :partying_face:
 ## ASSESMENT 
 | Section            | Screenshot                                                                                                  |
 |---------------------|-------------------------------------------------------------------------------------------------------------|
-| **ASSESMENT II**   | ![image](https://github.com/RunTimeError02/D49_SagarDave_Honors_Assesment/assets/102181573/a23693ca-3068-4a7c-9ddf-479239f1cc2f)
+| **ASSESMENT**   | ![image](https://github.com/RunTimeError02/D49_SagarDave_Honors_Assesment/assets/102181573/a23693ca-3068-4a7c-9ddf-479239f1cc2f)
 |
-[Assesment III Screenshot 2](https://github.com/SoparkarSharvari/MoviesNative/assets/116560487/d5ac5b03-92e2-4b98-bc15-d2a0de1f3f08?s=200) |
+
